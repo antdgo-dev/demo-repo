@@ -13,3 +13,4 @@ This repo is being created following the course at https://www.youtube.com/watch
 This part is added using a feature branch called 'feature-readme-intructions'.
 
 1. Open index.html in your browser.
+2. Have fun!
